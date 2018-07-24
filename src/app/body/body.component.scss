@@ -1,0 +1,77 @@
+.padding{
+  margin-top: 57px;
+}
+header, #reg{
+  background: url('https://blackrockdigital.github.io/startbootstrap-landing-page/img/bg-masthead.jpg'), no-repeat;
+  // background-size: cover;
+  // height: 1.5rem;
+  padding: 8rem 0;
+  background-size: 100% 100%;
+  // opacity: .8;
+  h1{
+    font-weight: 600;
+  }
+}
+
+
+.overlay{
+  padding:50px;
+}
+#Features{
+  padding: 100px 0;
+  i{
+    font-size: 50px;
+    padding: 14px 0;
+  }
+}
+
+#Spacer{
+  #one{
+    background: url('https://blackrockdigital.github.io/startbootstrap-landing-page/img/bg-showcase-1.jpg'),no-repeat;
+  background-size: 100% 100%;
+  height: 30em;
+  }
+  #two{
+    background: url('https://blackrockdigital.github.io/startbootstrap-landing-page/img/bg-showcase-2.jpg'),no-repeat;
+  background-size: 100% 100%;
+  height: 30em;
+  }
+  #three{
+    background: url('https://blackrockdigital.github.io/startbootstrap-landing-page/img/bg-showcase-3.jpg'),no-repeat;
+  background-size: 100% 100%;
+  height: 30em;
+  }
+  p, h2{
+    padding: 2px;
+    text-align: center !important;
+  }
+  .showcase-text{
+    padding: 5em;
+  }
+}
+
+#Testimony{
+  padding: 100px 0;
+  img{
+    border-radius: 100%;
+    width: 10rem;
+    // height: 50;
+    // padding: 20px 0;
+  }
+  h3{
+    font-weight: 600;
+  }
+  .col-md-4{
+    padding: 12px 0;
+  }
+  .lead{
+    font-size: 14px;
+  }
+}
+
+#Footer{
+  padding: 4rem;
+    i{
+      font-size: 20px;
+    }
+}
